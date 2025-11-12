@@ -17,7 +17,7 @@ export default function Navbar() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-3">
               <Shield className="w-8 h-8 text-black" />
-              <span className="text-xl font-semibold text-black">Industry 2.0</span>
+              <span className="text-xl font-semibold text-black">Rust Alert</span>
             </div>
             
             <div className="hidden md:flex items-center space-x-8">
